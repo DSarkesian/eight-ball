@@ -25,4 +25,5 @@ const eightBallAnswers = [
   { msg: "Outlook not so good.", color: "red" },
   { msg: "Very doubtful.", color: "red" },
 ]
+
 export { getRandom, eightBallAnswers };

@@ -1,0 +1,11 @@
+.EightBall-ball {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    color: white;
+}
